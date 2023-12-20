@@ -5718,6 +5718,7 @@ __metadata:
     react-native-chart-kit: "npm:^6.12.0"
     react-native-gesture-handler: "npm:^2.14.0"
     react-native-gifted-charts: "npm:^1.3.28"
+    react-native-linear-gradient: "npm:^2.8.3"
     react-native-paper: "npm:^5.11.4"
     react-native-reanimated: "npm:^3.6.1"
     react-native-safe-area-context: "npm:^4.8.1"
@@ -8929,6 +8930,16 @@ __metadata:
     react-native-linear-gradient: "*"
     react-native-svg: "*"
   checksum: f00a40b4e6ea2c476e0f033834b77d12758f99dfed531cbf5ba4df92361d66531af8ae48af3a5b968244bdff9ac6801474125b7ff4b8779771f7b6bc891767b7
+  languageName: node
+  linkType: hard
+
+"react-native-linear-gradient@npm:^2.8.3":
+  version: 2.8.3
+  resolution: "react-native-linear-gradient@npm:2.8.3"
+  peerDependencies:
+    react: "*"
+    react-native: "*"
+  checksum: db18c7ae4b68afe8b6f12c67defeeccda7a3cff4ee14a0b2d92ff2581d53bd2e65bf29837cf2828abb3d8d1f3cef3f808e8cc1c5d4c8da5dd6f1d09e2b9c2c55
   languageName: node
   linkType: hard
 
