@@ -1,8 +1,11 @@
-import {configureStore} from "@reduxjs/toolkit";
+import {configureStore} from '@reduxjs/toolkit';
+import transactionReducer from './slice/transactionSlice';
+import {thunk} from 'redux-thunk';
 export const store = configureStore({
-    reducer: {
-        
-    }
+  reducer: {
+    transaction: transactionReducer,
+  },
+  middleware: () => [thunk],
 });
 
 // Infer the `RootState` and `AppDispatch` types from the store itself
