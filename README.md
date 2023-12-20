@@ -22,3 +22,10 @@ yarn start or yarn start --reset-cache
 - lodash
 - react-native-svg
 - react-native-vector-icons
+
+## Screenshots
+<div>
+   <img src="./docs/Images/../Screenshot%202023-12-20%20at%205.58.27%20PM.png" width="150" alt="Screenshot 1">
+   <img src="./docs/Images/../Screenshot%202023-12-20%20at%205.58.39%20PM.png" width="150" alt="Screenshot 1">
+   <img src="./docs/Images/../Screenshot%202023-12-20%20at%205.58.59%20PM.png" width="150" alt="Screenshot 1">
+</div>
